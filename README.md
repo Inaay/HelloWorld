@@ -1,5 +1,3 @@
-# HelloWorld
+# Hello, World! In all languages!
 
-* Hello, World! In all languages!
-
-- Python ✅
+### Pull request if you want to add a language.
